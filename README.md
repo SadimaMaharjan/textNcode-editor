@@ -56,4 +56,4 @@ The following image shows the application's IndexedDB storage:
 
 ## Deployment
 
-The application is deployed to [Heroku](https://git.heroku.com/textncodeditor.git)
+The application is deployed to [Heroku](https://textncodeditor-db46f522e61e.herokuapp.com/)
